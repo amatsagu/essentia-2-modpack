@@ -1,0 +1,22 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:raw_iron_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alpinewhispers:cooked_reindeer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alpinewhispers:reindeer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:multitool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:walking_stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:small_backpack","components":{"minecraft:container":[{"slot":0,"item":{"id":"minecraft:cobblestone","count":64}},{"slot":1,"item":{"id":"farm_and_charm:tomato","count":12}},{"slot":2,"item":{"id":"minecraft:sugar_cane","count":11}},{"slot":3,"item":{"id":"minecraft:beetroot","count":27}},{"slot":4,"item":{"id":"minecraft:raw_gold","count":26}},{"slot":5,"item":{"id":"minecraft:emerald","count":2}},{"slot":6,"item":{"id":"minecraft:cooked_mutton","count":8}},{"slot":7,"item":{"id":"minecraft:cobbled_deepslate","count":64}},{"slot":8,"item":{"id":"minecraft:redstone","count":64}},{"slot":9,"item":{"id":"minecraft:coal","count":42}},{"slot":10,"item":{"id":"minecraft:lapis_lazuli","count":64}},{"slot":11,"item":{"id":"minecraft:cobblestone","count":18}},{"slot":12,"item":{"id":"minecraft:copper_ingot","count":10}},{"slot":13,"item":{"id":"minecraft:lapis_lazuli","count":64}},{"slot":14,"item":{"id":"minecraft:white_wool","count":7}},{"slot":15,"item":{"id":"minecraft:cobbled_deepslate","count":13}},{"slot":16,"item":{"id":"minecraft:spruce_log","count":14}},{"slot":17,"item":{"id":"minecraft:barrel","count":4}},{"slot":18,"item":{"id":"minecraft:sweet_berries","count":7}},{"slot":19,"item":{"id":"relics:roller_skate","count":1,"components":{"relics:data":{"abilities":{"abilities":{"skating":{"points":0,"stats":{"resistance":{"initialQuality":5},"ignite":{"initialQuality":2},"speed":{"initialQuality":6},"step_height":{"initialQuality":10},"damage":{"initialQuality":9}},"research":{"links":{},"researched":false},"lock":{"breaks":5}}},"synergies":{}},"leveling":{},"statistic":{"metrics":{"retention_time":{"value":2510.0}}}}}}},{"slot":20,"item":{"id":"minecraft:raw_iron","count":64}},{"slot":21,"item":{"id":"minecraft:gold_ingot","count":3}},{"slot":22,"item":{"id":"minecraft:iron_ingot","count":4}},{"slot":23,"item":{"id":"minecraft:diamond","count":13}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:small_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:string"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:name_tag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gold_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:raw_gold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"relics:roller_skate","components":{"relics:data":{"abilities":{"abilities":{"skating":{"points":0,"stats":{"resistance":{},"ignite":{"initialQuality":3},"speed":{"initialQuality":3},"step_height":{"initialQuality":7},"damage":{"initialQuality":10}},"research":{"links":{},"researched":false},"lock":{"breaks":5}}},"synergies":{}},"leveling":{},"statistic":{"metrics":{"retention_time":{"value":10.0}}}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:raw_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:sheepbag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:goodybag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"camping:large_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_sapling"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

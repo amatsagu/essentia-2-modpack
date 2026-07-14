@@ -1,0 +1,22 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:pumpkin_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:pumpkin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:flour"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:dough"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bakery:bun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bakery:bread_crate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:yeast"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bakery:crusty_bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bakery:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bakery:bread_knife"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:cooking_pot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tnt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:twigs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:hanging_roots"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:coarse_dirt"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

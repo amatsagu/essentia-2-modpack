@@ -1,0 +1,10 @@
+{
+  "copyDatapacks": true,
+  "enableFeatures": true,
+  "globalFeatures": true,
+  "sendRestartWarning": true,
+  "requiredDatapacksPaths": [
+    "datapacks"
+  ],
+  "optionalDatapacksPaths": []
+}
