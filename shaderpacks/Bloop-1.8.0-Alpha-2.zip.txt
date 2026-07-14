@@ -1,0 +1,16 @@
+#Tue Mar 10 12:18:35 CET 2026
+BLOOM=false
+CLOUD_QUALITY=1
+HQ_WATER=false
+PBR=false
+REFRACTION=false
+RSM=false
+SHADOW_FILTERING=1
+SHADOW_WAVE=false
+SSAO=0
+SSR_STEPS=3
+TAA=false
+VL_QUALITY=0
+VOLUMETRIC_LIGHTING_FAKE=false
+shadowDistance=128.0
+shadowMapResolution=1024
