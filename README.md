@@ -1,4 +1,4 @@
-## List of mods (Client + Server)
+## List of mods (Client + Server) [81 mod files, 96 mods in game]
 
 - [Accelerated Decay](https://modrinth.com/mod/laX5CckD) [21\.0\.0] by ErrorMikey (accelerated\-decay\-neoforge\-21\.0\.0\.jar)
 - AdvancedLootInfo [1\.12\.0] by Yanny (AdvancedLootInfo\-neoforge\-1\.21\.1\-1\.12\.0\.jar)
